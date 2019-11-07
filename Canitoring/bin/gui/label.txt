@@ -1,0 +1,13 @@
+person
+cup
+wine glass
+bottle
+backpack
+laptop
+fork
+knife
+cake
+chair
+dining table
+mouse
+book

@@ -1,0 +1,798 @@
+Demo
+
+ seen 64 
+Webcam index: 0
+Video stream: 640 x 480 
+Objects:
+
+Objects:
+
+sofa: 54% 	(left_x:   95   top_y:  358   width:  461   height:   53)
+person: 97% 	(left_x:   87   top_y:  113   width:  471   height:  306)
+Objects:
+
+sofa: 51% 	(left_x:   87   top_y:  357   width:  474   height:   53)
+person: 97% 	(left_x:   93   top_y:  112   width:  459   height:  310)
+chair: 30% 	(left_x:    0   top_y:  368   width:   77   height:   50)
+Objects:
+
+sofa: 58% 	(left_x:   93   top_y:  357   width:  464   height:   54)
+person: 98% 	(left_x:   87   top_y:  112   width:  472   height:  308)
+chair: 31% 	(left_x:    0   top_y:  369   width:   75   height:   48)
+Objects:
+
+sofa: 57% 	(left_x:   82   top_y:  356   width:  484   height:   53)
+person: 99% 	(left_x:   84   top_y:  112   width:  476   height:  308)
+Objects:
+
+sofa: 51% 	(left_x:   96   top_y:  357   width:  451   height:   53)
+person: 98% 	(left_x:   90   top_y:  112   width:  464   height:  309)
+chair: 27% 	(left_x:    0   top_y:  369   width:   74   height:   48)
+Objects:
+
+sofa: 59% 	(left_x:   97   top_y:  362   width:  521   height:   48)
+person: 98% 	(left_x:   89   top_y:  112   width:  465   height:  312)
+chair: 26% 	(left_x:    0   top_y:  369   width:   73   height:   49)
+Objects:
+
+sofa: 60% 	(left_x:  109   top_y:  362   width:  499   height:   49)
+person: 97% 	(left_x:   87   top_y:  111   width:  470   height:  312)
+Objects:
+
+sofa: 64% 	(left_x:  104   top_y:  363   width:  513   height:   48)
+person: 98% 	(left_x:   84   top_y:  113   width:  476   height:  312)
+chair: 29% 	(left_x:    0   top_y:  369   width:   79   height:   48)
+Objects:
+
+sofa: 72% 	(left_x:   99   top_y:  362   width:  522   height:   49)
+person: 99% 	(left_x:   88   top_y:  114   width:  467   height:  311)
+chair: 37% 	(left_x:    0   top_y:  368   width:   79   height:   49)
+Objects:
+
+sofa: 70% 	(left_x:  103   top_y:  362   width:  517   height:   49)
+chair: 31% 	(left_x:  135   top_y:  352   width:  111   height:   65)
+person: 99% 	(left_x:   89   top_y:  113   width:  462   height:  314)
+chair: 43% 	(left_x:    0   top_y:  369   width:   77   height:   49)
+Objects:
+
+sofa: 70% 	(left_x:  105   top_y:  360   width:  514   height:   51)
+person: 99% 	(left_x:   85   top_y:  117   width:  473   height:  306)
+Objects:
+
+sofa: 68% 	(left_x:  105   top_y:  361   width:  512   height:   51)
+person: 99% 	(left_x:   82   top_y:  120   width:  481   height:  302)
+Objects:
+
+sofa: 69% 	(left_x:  110   top_y:  361   width:  502   height:   49)
+chair: 34% 	(left_x:  135   top_y:  352   width:  115   height:   65)
+person: 99% 	(left_x:   87   top_y:  120   width:  473   height:  304)
+chair: 45% 	(left_x:    1   top_y:  369   width:   74   height:   48)
+Objects:
+
+sofa: 64% 	(left_x:  114   top_y:  361   width:  496   height:   49)
+chair: 31% 	(left_x:    0   top_y:  369   width:   81   height:   49)
+person: 98% 	(left_x:   86   top_y:  120   width:  475   height:  303)
+chair: 43% 	(left_x:  135   top_y:  352   width:  113   height:   65)
+Objects:
+
+sofa: 63% 	(left_x:  107   top_y:  362   width:  507   height:   50)
+person: 98% 	(left_x:   85   top_y:  120   width:  477   height:  303)
+Objects:
+
+sofa: 60% 	(left_x:   96   top_y:  358   width:  454   height:   52)
+person: 98% 	(left_x:   83   top_y:  121   width:  480   height:  301)
+chair: 26% 	(left_x:    0   top_y:  369   width:   76   height:   48)
+Objects:
+
+sofa: 63% 	(left_x:  105   top_y:  361   width:  509   height:   50)
+chair: 39% 	(left_x:    0   top_y:  368   width:   75   height:   49)
+chair: 31% 	(left_x:  135   top_y:  352   width:  114   height:   65)
+person: 98% 	(left_x:   83   top_y:  121   width:  478   height:  300)
+Objects:
+
+sofa: 61% 	(left_x:  108   top_y:  362   width:  506   height:   49)
+person: 99% 	(left_x:   86   top_y:  123   width:  476   height:  299)
+chair: 30% 	(left_x:    0   top_y:  369   width:   76   height:   48)
+Objects:
+
+sofa: 69% 	(left_x:  108   top_y:  361   width:  505   height:   49)
+person: 99% 	(left_x:   87   top_y:  120   width:  473   height:  303)
+chair: 28% 	(left_x:  136   top_y:  352   width:  113   height:   65)
+Objects:
+
+sofa: 71% 	(left_x:  107   top_y:  362   width:  510   height:   49)
+chair: 31% 	(left_x:  135   top_y:  352   width:  114   height:   65)
+person: 99% 	(left_x:   90   top_y:  121   width:  468   height:  302)
+chair: 32% 	(left_x:    0   top_y:  369   width:   72   height:   48)
+Objects:
+
+sofa: 64% 	(left_x:  113   top_y:  361   width:  497   height:   49)
+chair: 26% 	(left_x:    0   top_y:  370   width:   74   height:   47)
+person: 99% 	(left_x:   93   top_y:  118   width:  459   height:  308)
+chair: 27% 	(left_x:  136   top_y:  352   width:  112   height:   65)
+Objects:
+
+person: 99% 	(left_x:   91   top_y:  119   width:  464   height:  307)
+sofa: 69% 	(left_x:  114   top_y:  362   width:  500   height:   49)
+Objects:
+
+sofa: 76% 	(left_x:  105   top_y:  362   width:  511   height:   48)
+person: 99% 	(left_x:   90   top_y:  117   width:  461   height:  309)
+Objects:
+
+person: 99% 	(left_x:   87   top_y:  117   width:  467   height:  306)
+sofa: 67% 	(left_x:  106   top_y:  362   width:  506   height:   49)
+Objects:
+
+sofa: 75% 	(left_x:  101   top_y:  362   width:  518   height:   48)
+person: 99% 	(left_x:   88   top_y:  117   width:  467   height:  308)
+chair: 29% 	(left_x:    0   top_y:  369   width:   77   height:   48)
+Objects:
+
+person: 99% 	(left_x:   92   top_y:  117   width:  458   height:  309)
+sofa: 74% 	(left_x:  101   top_y:  361   width:  519   height:   48)
+Objects:
+
+sofa: 72% 	(left_x:  100   top_y:  361   width:  518   height:   49)
+person: 99% 	(left_x:   85   top_y:  117   width:  473   height:  307)
+chair: 41% 	(left_x:    0   top_y:  367   width:   76   height:   50)
+Objects:
+
+sofa: 67% 	(left_x:  103   top_y:  362   width:  511   height:   49)
+person: 99% 	(left_x:   88   top_y:  117   width:  467   height:  306)
+Objects:
+
+sofa: 77% 	(left_x:   95   top_y:  361   width:  526   height:   50)
+person: 99% 	(left_x:   89   top_y:  116   width:  464   height:  309)
+Objects:
+
+sofa: 75% 	(left_x:   94   top_y:  361   width:  526   height:   49)
+person: 99% 	(left_x:   87   top_y:  115   width:  472   height:  309)
+Objects:
+
+sofa: 77% 	(left_x:  102   top_y:  361   width:  521   height:   50)
+person: 98% 	(left_x:   86   top_y:  113   width:  474   height:  312)
+chair: 29% 	(left_x:    0   top_y:  369   width:   75   height:   49)
+Objects:
+
+sofa: 78% 	(left_x:  102   top_y:  361   width:  519   height:   50)
+person: 99% 	(left_x:   92   top_y:  115   width:  458   height:  311)
+chair: 31% 	(left_x:    0   top_y:  370   width:   78   height:   47)
+Objects:
+
+sofa: 79% 	(left_x:   99   top_y:  361   width:  523   height:   49)
+person: 99% 	(left_x:   89   top_y:  114   width:  466   height:  311)
+Objects:
+
+sofa: 74% 	(left_x:   98   top_y:  361   width:  521   height:   49)
+person: 99% 	(left_x:   95   top_y:  116   width:  456   height:  310)
+chair: 30% 	(left_x:    0   top_y:  369   width:   77   height:   48)
+Objects:
+
+sofa: 83% 	(left_x:  100   top_y:  361   width:  519   height:   49)
+person: 99% 	(left_x:   92   top_y:  117   width:  461   height:  307)
+chair: 40% 	(left_x:    0   top_y:  369   width:   78   height:   49)
+Objects:
+
+sofa: 76% 	(left_x:   99   top_y:  362   width:  520   height:   48)
+person: 99% 	(left_x:   91   top_y:  114   width:  464   height:  310)
+Objects:
+
+sofa: 75% 	(left_x:   98   top_y:  362   width:  522   height:   49)
+person: 99% 	(left_x:   92   top_y:  115   width:  460   height:  311)
+chair: 32% 	(left_x:    0   top_y:  369   width:   73   height:   48)
+Objects:
+
+sofa: 81% 	(left_x:   95   top_y:  361   width:  531   height:   48)
+person: 99% 	(left_x:   93   top_y:  116   width:  461   height:  309)
+Objects:
+
+sofa: 75% 	(left_x:  100   top_y:  362   width:  521   height:   48)
+person: 99% 	(left_x:   92   top_y:  115   width:  462   height:  310)
+chair: 33% 	(left_x:    0   top_y:  369   width:   75   height:   48)
+Objects:
+
+sofa: 74% 	(left_x:  100   top_y:  361   width:  518   height:   48)
+person: 99% 	(left_x:   84   top_y:  114   width:  476   height:  310)
+chair: 28% 	(left_x:    0   top_y:  370   width:   79   height:   47)
+Objects:
+
+sofa: 75% 	(left_x:  102   top_y:  361   width:  523   height:   50)
+person: 99% 	(left_x:   88   top_y:  116   width:  467   height:  309)
+chair: 26% 	(left_x:    0   top_y:  370   width:   76   height:   47)
+Objects:
+
+sofa: 72% 	(left_x:  100   top_y:  362   width:  518   height:   48)
+person: 99% 	(left_x:   79   top_y:  119   width:  487   height:  302)
+Objects:
+
+sofa: 63% 	(left_x:  104   top_y:  362   width:  509   height:   50)
+person: 99% 	(left_x:   76   top_y:  124   width:  488   height:  299)
+Objects:
+
+person: 100% 	(left_x:   80   top_y:  130   width:  478   height:  290)
+sofa: 60% 	(left_x:  108   top_y:  362   width:  508   height:   48)
+Objects:
+
+sofa: 60% 	(left_x:  108   top_y:  361   width:  511   height:   49)
+person: 98% 	(left_x:   76   top_y:  138   width:  491   height:  280)
+chair: 28% 	(left_x:    0   top_y:  370   width:   78   height:   48)
+Objects:
+
+sofa: 57% 	(left_x:  107   top_y:  360   width:  515   height:   51)
+person: 98% 	(left_x:  168   top_y:  158   width:  308   height:  253)
+Objects:
+
+sofa: 59% 	(left_x:   80   top_y:  355   width:  486   height:   59)
+person: 99% 	(left_x:  189   top_y:  178   width:  258   height:  227)
+chair: 26% 	(left_x:    0   top_y:  368   width:   75   height:   50)
+Objects:
+
+person: 98% 	(left_x:  200   top_y:  182   width:  232   height:  242)
+chair: 27% 	(left_x:    0   top_y:  369   width:   77   height:   49)
+sofa: 67% 	(left_x:   64   top_y:  355   width:  519   height:   60)
+Objects:
+
+sofa: 57% 	(left_x:   63   top_y:  356   width:  519   height:   60)
+person: 98% 	(left_x:  213   top_y:  192   width:  202   height:  231)
+Objects:
+
+chair: 40% 	(left_x:    1   top_y:  369   width:   75   height:   49)
+sofa: 55% 	(left_x:   61   top_y:  353   width:  520   height:   61)
+chair: 32% 	(left_x:  137   top_y:  350   width:  125   height:   70)
+person: 94% 	(left_x:  215   top_y:  199   width:  201   height:  222)
+Objects:
+
+chair: 27% 	(left_x:    0   top_y:  369   width:   79   height:   48)
+person: 92% 	(left_x:  216   top_y:  209   width:  197   height:  212)
+chair: 32% 	(left_x:  136   top_y:  351   width:  128   height:   69)
+sofa: 65% 	(left_x:   56   top_y:  353   width:  530   height:   59)
+Objects:
+
+chair: 30% 	(left_x:  136   top_y:  351   width:  127   height:   69)
+person: 90% 	(left_x:  216   top_y:  210   width:  197   height:  211)
+chair: 43% 	(left_x:    0   top_y:  369   width:   76   height:   49)
+sofa: 63% 	(left_x:   48   top_y:  355   width:  548   height:   56)
+Objects:
+
+chair: 35% 	(left_x:  135   top_y:  351   width:  129   height:   70)
+person: 92% 	(left_x:  216   top_y:  208   width:  197   height:  210)
+chair: 46% 	(left_x:    1   top_y:  369   width:   76   height:   48)
+sofa: 54% 	(left_x:   43   top_y:  356   width:  551   height:   53)
+Objects:
+
+chair: 46% 	(left_x:  135   top_y:  351   width:  128   height:   69)
+chair: 41% 	(left_x:    0   top_y:  368   width:   79   height:   50)
+chair: 26% 	(left_x:   62   top_y:  367   width:   81   height:   51)
+person: 92% 	(left_x:  210   top_y:  208   width:  209   height:  209)
+Objects:
+
+sofa: 27% 	(left_x:   69   top_y:  352   width:  501   height:   59)
+person: 98% 	(left_x:  156   top_y:  123   width:  421   height:  303)
+chair: 35% 	(left_x:    1   top_y:  368   width:   74   height:   50)
+Objects:
+
+chair: 49% 	(left_x:    0   top_y:  369   width:   77   height:   49)
+sofa: 32% 	(left_x:   69   top_y:  354   width:  502   height:   57)
+person: 81% 	(left_x:  142   top_y:  126   width:  449   height:  300)
+Objects:
+
+sofa: 49% 	(left_x:   76   top_y:  350   width:  495   height:   61)
+person: 98% 	(left_x:  102   top_y:  124   width:  445   height:  300)
+chair: 46% 	(left_x:    1   top_y:  368   width:   77   height:   51)
+Objects:
+
+sofa: 29% 	(left_x:   83   top_y:  351   width:  484   height:   63)
+person: 97% 	(left_x:  103   top_y:  129   width:  440   height:  301)
+chair: 45% 	(left_x:    0   top_y:  369   width:   76   height:   49)
+Objects:
+
+chair: 44% 	(left_x:    0   top_y:  368   width:   80   height:   50)
+person: 94% 	(left_x:   84   top_y:  127   width:  475   height:  301)
+Objects:
+
+person: 97% 	(left_x:   97   top_y:  122   width:  454   height:  310)
+Objects:
+
+person: 99% 	(left_x:   98   top_y:  116   width:  446   height:  317)
+Objects:
+
+person: 97% 	(left_x:   96   top_y:  111   width:  458   height:  321)
+Objects:
+
+person: 97% 	(left_x:   96   top_y:  111   width:  458   height:  321)
+Objects:
+
+person: 95% 	(left_x:   97   top_y:  119   width:  459   height:  305)
+chair: 36% 	(left_x:    0   top_y:  368   width:   78   height:   50)
+chair: 27% 	(left_x:  139   top_y:  351   width:  121   height:   68)
+Objects:
+
+person: 95% 	(left_x:  138   top_y:  111   width:  457   height:  319)
+chair: 38% 	(left_x:    0   top_y:  366   width:   74   height:   53)
+chair: 25% 	(left_x:  140   top_y:  351   width:  123   height:   67)
+Objects:
+
+chair: 30% 	(left_x:    0   top_y:  367   width:   75   height:   51)
+chair: 25% 	(left_x:  139   top_y:  351   width:  127   height:   66)
+person: 94% 	(left_x:   94   top_y:  117   width:  466   height:  307)
+Objects:
+
+person: 95% 	(left_x:  136   top_y:  111   width:  459   height:  320)
+Objects:
+
+person: 95% 	(left_x:  147   top_y:   78   width:  439   height:  346)
+Objects:
+
+person: 99% 	(left_x:  142   top_y:  116   width:  451   height:  309)
+Objects:
+
+person: 97% 	(left_x:  134   top_y:   91   width:  464   height:  319)
+chair: 27% 	(left_x:    1   top_y:  366   width:   76   height:   51)
+Objects:
+
+person: 100% 	(left_x:  139   top_y:  116   width:  453   height:  303)
+Objects:
+
+chair: 25% 	(left_x:    0   top_y:  367   width:   75   height:   51)
+person: 100% 	(left_x:  130   top_y:  111   width:  477   height:  311)
+Objects:
+
+person: 100% 	(left_x:  125   top_y:  111   width:  491   height:  309)
+chair: 34% 	(left_x:    0   top_y:  367   width:   75   height:   50)
+Objects:
+
+person: 100% 	(left_x:  121   top_y:  112   width:  498   height:  306)
+Objects:
+
+chair: 30% 	(left_x:  140   top_y:  352   width:  144   height:   59)
+chair: 26% 	(left_x:    0   top_y:  368   width:   77   height:   49)
+person: 100% 	(left_x:  124   top_y:  110   width:  495   height:  311)
+Objects:
+
+chair: 31% 	(left_x:  141   top_y:  354   width:  143   height:   56)
+person: 100% 	(left_x:  112   top_y:  115   width:  518   height:  302)
+Objects:
+
+chair: 29% 	(left_x:  140   top_y:  354   width:  143   height:   57)
+person: 100% 	(left_x:  120   top_y:  111   width:  498   height:  309)
+Objects:
+
+person: 100% 	(left_x:  118   top_y:  111   width:  505   height:  310)
+Objects:
+
+sofa: 34% 	(left_x:    0   top_y:  358   width:  308   height:   68)
+person: 99% 	(left_x:  117   top_y:  109   width:  502   height:  313)
+Objects:
+
+person: 99% 	(left_x:   84   top_y:  115   width:  492   height:  303)
+Objects:
+
+person: 99% 	(left_x:  131   top_y:  113   width:  472   height:  309)
+chair: 29% 	(left_x:    0   top_y:  367   width:   76   height:   51)
+Objects:
+
+person: 99% 	(left_x:  134   top_y:  113   width:  463   height:  310)
+Objects:
+
+person: 99% 	(left_x:  135   top_y:  118   width:  462   height:  305)
+sofa: 29% 	(left_x:    0   top_y:  358   width:  287   height:   68)
+Objects:
+
+person: 99% 	(left_x:  139   top_y:  113   width:  453   height:  310)
+sofa: 34% 	(left_x:    0   top_y:  358   width:  292   height:   68)
+Objects:
+
+sofa: 27% 	(left_x:    0   top_y:  357   width:  297   height:   67)
+person: 99% 	(left_x:  139   top_y:  112   width:  453   height:  312)
+Objects:
+
+person: 97% 	(left_x:   80   top_y:  115   width:  501   height:  300)
+sofa: 27% 	(left_x:  130   top_y:  351   width:  486   height:   62)
+Objects:
+
+person: 98% 	(left_x:   81   top_y:  118   width:  498   height:  298)
+Objects:
+
+sofa: 34% 	(left_x:  134   top_y:  352   width:  472   height:   62)
+person: 95% 	(left_x:   82   top_y:  113   width:  500   height:  308)
+Objects:
+
+person: 96% 	(left_x:   78   top_y:  113   width:  505   height:  308)
+Objects:
+
+person: 97% 	(left_x:  138   top_y:  106   width:  453   height:  320)
+Objects:
+
+chair: 27% 	(left_x:  140   top_y:  351   width:  127   height:   64)
+person: 98% 	(left_x:  138   top_y:  106   width:  455   height:  320)
+Objects:
+
+sofa: 38% 	(left_x:  143   top_y:  351   width:  451   height:   64)
+person: 97% 	(left_x:  137   top_y:  101   width:  455   height:  328)
+Objects:
+
+chair: 26% 	(left_x:    0   top_y:  367   width:   74   height:   51)
+person: 98% 	(left_x:  145   top_y:  103   width:  444   height:  326)
+Objects:
+
+person: 98% 	(left_x:  145   top_y:  104   width:  442   height:  322)
+Objects:
+
+person: 98% 	(left_x:  148   top_y:  103   width:  438   height:  324)
+Objects:
+
+person: 97% 	(left_x:  151   top_y:  102   width:  429   height:  327)
+Objects:
+
+person: 97% 	(left_x:  152   top_y:  100   width:  427   height:  331)
+Objects:
+
+person: 96% 	(left_x:  153   top_y:   99   width:  426   height:  335)
+Objects:
+
+sofa: 27% 	(left_x:  147   top_y:  351   width:  437   height:   66)
+person: 97% 	(left_x:  157   top_y:  101   width:  421   height:  330)
+Objects:
+
+chair: 27% 	(left_x:    0   top_y:  366   width:   77   height:   52)
+person: 97% 	(left_x:  153   top_y:   98   width:  427   height:  336)
+Objects:
+
+person: 98% 	(left_x:  157   top_y:  100   width:  419   height:  332)
+Objects:
+
+person: 98% 	(left_x:  156   top_y:  103   width:  423   height:  329)
+Objects:
+
+person: 98% 	(left_x:  157   top_y:  103   width:  418   height:  328)
+Objects:
+
+person: 97% 	(left_x:  156   top_y:  103   width:  423   height:  329)
+Objects:
+
+chair: 28% 	(left_x:    1   top_y:  368   width:   76   height:   49)
+person: 97% 	(left_x:  152   top_y:  104   width:  429   height:  325)
+Objects:
+
+person: 98% 	(left_x:  145   top_y:  105   width:  440   height:  326)
+Objects:
+
+person: 97% 	(left_x:  150   top_y:  106   width:  433   height:  323)
+Objects:
+
+person: 98% 	(left_x:  147   top_y:  103   width:  439   height:  329)
+Objects:
+
+person: 98% 	(left_x:  143   top_y:  103   width:  443   height:  329)
+Objects:
+
+person: 98% 	(left_x:  148   top_y:  103   width:  430   height:  330)
+Objects:
+
+person: 98% 	(left_x:  143   top_y:  103   width:  443   height:  329)
+Objects:
+
+person: 98% 	(left_x:  144   top_y:  104   width:  444   height:  328)
+Objects:
+
+person: 98% 	(left_x:  146   top_y:  104   width:  438   height:  329)
+Objects:
+
+person: 98% 	(left_x:  145   top_y:  105   width:  439   height:  327)
+Objects:
+
+person: 97% 	(left_x:  142   top_y:  104   width:  445   height:  329)
+Objects:
+
+person: 98% 	(left_x:  145   top_y:  107   width:  439   height:  323)
+Objects:
+
+person: 98% 	(left_x:  144   top_y:  104   width:  437   height:  327)
+Objects:
+
+person: 98% 	(left_x:  144   top_y:  106   width:  441   height:  324)
+Objects:
+
+person: 98% 	(left_x:  141   top_y:  104   width:  447   height:  329)
+Objects:
+
+person: 98% 	(left_x:  145   top_y:  106   width:  441   height:  325)
+Objects:
+
+chair: 27% 	(left_x:    0   top_y:  368   width:   75   height:   49)
+person: 98% 	(left_x:  139   top_y:  106   width:  450   height:  324)
+Objects:
+
+person: 98% 	(left_x:  138   top_y:  105   width:  452   height:  326)
+Objects:
+
+person: 98% 	(left_x:  143   top_y:  104   width:  443   height:  328)
+Objects:
+
+person: 98% 	(left_x:  141   top_y:  105   width:  446   height:  325)
+Objects:
+
+person: 97% 	(left_x:  131   top_y:  108   width:  471   height:  322)
+Objects:
+
+chair: 25% 	(left_x:    0   top_y:  366   width:   76   height:   52)
+person: 98% 	(left_x:  134   top_y:  109   width:  459   height:  320)
+Objects:
+
+person: 98% 	(left_x:  135   top_y:  107   width:  461   height:  322)
+Objects:
+
+person: 98% 	(left_x:  136   top_y:  107   width:  457   height:  322)
+Objects:
+
+person: 97% 	(left_x:  139   top_y:  106   width:  450   height:  324)
+Objects:
+
+person: 97% 	(left_x:  140   top_y:  106   width:  449   height:  324)
+Objects:
+
+person: 98% 	(left_x:  133   top_y:  108   width:  460   height:  323)
+Objects:
+
+person: 98% 	(left_x:  136   top_y:  108   width:  458   height:  322)
+Objects:
+
+person: 98% 	(left_x:  141   top_y:  107   width:  450   height:  324)
+Objects:
+
+person: 97% 	(left_x:  102   top_y:  108   width:  447   height:  322)
+Objects:
+
+chair: 26% 	(left_x:    0   top_y:  367   width:   77   height:   50)
+person: 98% 	(left_x:  137   top_y:  104   width:  456   height:  328)
+Objects:
+
+person: 97% 	(left_x:  141   top_y:  105   width:  450   height:  326)
+Objects:
+
+chair: 26% 	(left_x:    0   top_y:  368   width:   76   height:   50)
+person: 98% 	(left_x:  137   top_y:  105   width:  457   height:  327)
+Objects:
+
+person: 97% 	(left_x:  140   top_y:  105   width:  452   height:  327)
+Objects:
+
+person: 98% 	(left_x:  143   top_y:  102   width:  447   height:  334)
+Objects:
+
+person: 98% 	(left_x:  140   top_y:  104   width:  448   height:  328)
+Objects:
+
+person: 98% 	(left_x:  103   top_y:  104   width:  447   height:  329)
+Objects:
+
+person: 97% 	(left_x:  145   top_y:  103   width:  440   height:  331)
+Objects:
+
+chair: 32% 	(left_x:    0   top_y:  367   width:   79   height:   50)
+person: 97% 	(left_x:  104   top_y:  106   width:  445   height:  324)
+Objects:
+
+person: 97% 	(left_x:  138   top_y:  104   width:  454   height:  328)
+Objects:
+
+person: 98% 	(left_x:  146   top_y:  103   width:  439   height:  332)
+Objects:
+
+person: 97% 	(left_x:  143   top_y:  102   width:  444   height:  333)
+Objects:
+
+person: 97% 	(left_x:  141   top_y:  103   width:  448   height:  332)
+Objects:
+
+person: 97% 	(left_x:  142   top_y:  106   width:  446   height:  325)
+Objects:
+
+person: 97% 	(left_x:  147   top_y:  105   width:  436   height:  326)
+Objects:
+
+person: 97% 	(left_x:  143   top_y:  104   width:  445   height:  329)
+Objects:
+
+chair: 30% 	(left_x:    0   top_y:  367   width:   77   height:   51)
+person: 97% 	(left_x:  104   top_y:  105   width:  446   height:  325)
+Objects:
+
+person: 97% 	(left_x:   98   top_y:  105   width:  457   height:  324)
+Objects:
+
+chair: 39% 	(left_x:    1   top_y:  366   width:   76   height:   51)
+person: 97% 	(left_x:  143   top_y:  107   width:  446   height:  322)
+Objects:
+
+person: 98% 	(left_x:  136   top_y:  108   width:  456   height:  321)
+Objects:
+
+person: 98% 	(left_x:  135   top_y:  110   width:  457   height:  317)
+Objects:
+
+sofa: 25% 	(left_x:    0   top_y:  357   width:  287   height:   68)
+person: 97% 	(left_x:  141   top_y:  110   width:  447   height:  319)
+chair: 32% 	(left_x:    0   top_y:  366   width:   76   height:   51)
+Objects:
+
+sofa: 27% 	(left_x:    0   top_y:  358   width:  291   height:   69)
+person: 98% 	(left_x:  140   top_y:  112   width:  444   height:  317)
+Objects:
+
+person: 98% 	(left_x:   87   top_y:  112   width:  485   height:  308)
+Objects:
+
+chair: 30% 	(left_x:  550   top_y:  359   width:   91   height:   62)
+person: 98% 	(left_x:  143   top_y:  107   width:  440   height:  320)
+Objects:
+
+person: 99% 	(left_x:  145   top_y:  111   width:  436   height:  315)
+Objects:
+
+sofa: 28% 	(left_x:    0   top_y:  358   width:  291   height:   69)
+person: 98% 	(left_x:  142   top_y:  110   width:  445   height:  317)
+chair: 29% 	(left_x:  552   top_y:  359   width:   89   height:   62)
+Objects:
+
+sofa: 25% 	(left_x:    0   top_y:  357   width:  294   height:   68)
+person: 98% 	(left_x:  141   top_y:  110   width:  446   height:  317)
+Objects:
+
+chair: 31% 	(left_x:  551   top_y:  359   width:   89   height:   61)
+person: 98% 	(left_x:  140   top_y:  109   width:  445   height:  318)
+Objects:
+
+sofa: 30% 	(left_x:    0   top_y:  358   width:  296   height:   67)
+person: 98% 	(left_x:  143   top_y:  111   width:  441   height:  315)
+chair: 27% 	(left_x:    0   top_y:  366   width:   75   height:   51)
+Objects:
+
+person: 99% 	(left_x:  143   top_y:  109   width:  441   height:  318)
+Objects:
+
+person: 98% 	(left_x:  149   top_y:  109   width:  433   height:  320)
+Objects:
+
+sofa: 26% 	(left_x:    0   top_y:  357   width:  293   height:   68)
+chair: 31% 	(left_x:    0   top_y:  367   width:   74   height:   50)
+person: 99% 	(left_x:  149   top_y:  109   width:  427   height:  318)
+Objects:
+
+person: 99% 	(left_x:  147   top_y:  107   width:  437   height:  324)
+Objects:
+
+person: 98% 	(left_x:  150   top_y:  111   width:  433   height:  321)
+Objects:
+
+sofa: 29% 	(left_x:    0   top_y:  358   width:  282   height:   68)
+person: 99% 	(left_x:  145   top_y:  113   width:  435   height:  321)
+chair: 27% 	(left_x:    1   top_y:  367   width:   74   height:   51)
+Objects:
+
+person: 99% 	(left_x:  142   top_y:  110   width:  449   height:  325)
+Objects:
+
+person: 100% 	(left_x:  135   top_y:  130   width:  464   height:  298)
+Objects:
+
+person: 100% 	(left_x:  138   top_y:  128   width:  463   height:  305)
+Objects:
+
+chair: 34% 	(left_x:    0   top_y:  370   width:   76   height:   46)
+person: 100% 	(left_x:   78   top_y:  132   width:  499   height:  290)
+Objects:
+
+person: 98% 	(left_x:   73   top_y:  133   width:  504   height:  287)
+sofa: 47% 	(left_x:   86   top_y:  365   width:  560   height:   43)
+Objects:
+
+sofa: 58% 	(left_x:   74   top_y:  354   width:  494   height:   58)
+chair: 30% 	(left_x:  137   top_y:  352   width:  106   height:   67)
+person: 97% 	(left_x:  156   top_y:  151   width:  325   height:  261)
+chair: 47% 	(left_x:    0   top_y:  369   width:   73   height:   48)
+Objects:
+
+sofa: 63% 	(left_x:   66   top_y:  354   width:  509   height:   57)
+person: 98% 	(left_x:  158   top_y:  153   width:  319   height:  257)
+chair: 28% 	(left_x:    0   top_y:  368   width:   78   height:   50)
+Objects:
+
+chair: 28% 	(left_x:    0   top_y:  369   width:   77   height:   48)
+sofa: 59% 	(left_x:   56   top_y:  353   width:  526   height:   59)
+person: 99% 	(left_x:  161   top_y:  157   width:  304   height:  248)
+Objects:
+
+chair: 34% 	(left_x:    0   top_y:  369   width:   79   height:   49)
+sofa: 68% 	(left_x:   52   top_y:  353   width:  532   height:   60)
+person: 99% 	(left_x:  159   top_y:  161   width:  304   height:  247)
+Objects:
+
+chair: 48% 	(left_x:    0   top_y:  370   width:   75   height:   48)
+sofa: 62% 	(left_x:   63   top_y:  353   width:  510   height:   59)
+person: 99% 	(left_x:  165   top_y:  165   width:  290   height:  243)
+Objects:
+
+chair: 56% 	(left_x:    0   top_y:  368   width:   80   height:   50)
+sofa: 51% 	(left_x:   68   top_y:  354   width:  498   height:   58)
+person: 98% 	(left_x:  164   top_y:  165   width:  293   height:  245)
+Objects:
+
+person: 98% 	(left_x:  163   top_y:  164   width:  298   height:  246)
+chair: 38% 	(left_x:    0   top_y:  368   width:   74   height:   50)
+sofa: 60% 	(left_x:   63   top_y:  352   width:  511   height:   61)
+Objects:
+
+chair: 28% 	(left_x:    0   top_y:  369   width:   79   height:   49)
+sofa: 66% 	(left_x:   58   top_y:  354   width:  512   height:   58)
+person: 98% 	(left_x:  166   top_y:  162   width:  288   height:  248)
+Objects:
+
+person: 98% 	(left_x:  166   top_y:  161   width:  285   height:  248)
+chair: 57% 	(left_x:    0   top_y:  368   width:   79   height:   49)
+sofa: 69% 	(left_x:   65   top_y:  353   width:  511   height:   58)
+Objects:
+
+sofa: 65% 	(left_x:   63   top_y:  353   width:  516   height:   59)
+person: 97% 	(left_x:  164   top_y:  159   width:  295   height:  252)
+chair: 43% 	(left_x:    0   top_y:  370   width:   78   height:   47)
+Objects:
+
+sofa: 64% 	(left_x:   66   top_y:  355   width:  506   height:   56)
+person: 97% 	(left_x:  163   top_y:  156   width:  294   height:  254)
+chair: 44% 	(left_x:    0   top_y:  370   width:   78   height:   47)
+Objects:
+
+sofa: 61% 	(left_x:   63   top_y:  355   width:  512   height:   56)
+person: 96% 	(left_x:  166   top_y:  153   width:  291   height:  257)
+chair: 41% 	(left_x:    1   top_y:  368   width:   79   height:   50)
+Objects:
+
+sofa: 61% 	(left_x:   62   top_y:  356   width:  515   height:   56)
+person: 94% 	(left_x:  163   top_y:  154   width:  296   height:  256)
+chair: 43% 	(left_x:    0   top_y:  367   width:   80   height:   51)
+Objects:
+
+sofa: 63% 	(left_x:   59   top_y:  355   width:  516   height:   58)
+chair: 49% 	(left_x:    0   top_y:  368   width:   76   height:   49)
+person: 97% 	(left_x:  115   top_y:  152   width:  328   height:  260)
+Objects:
+
+sofa: 58% 	(left_x:   63   top_y:  354   width:  515   height:   58)
+person: 94% 	(left_x:  163   top_y:  151   width:  298   height:  260)
+chair: 26% 	(left_x:    1   top_y:  369   width:   77   height:   48)
+Objects:
+
+person: 92% 	(left_x:  164   top_y:  152   width:  297   height:  257)
+sofa: 58% 	(left_x:   59   top_y:  356   width:  519   height:   55)
+Objects:
+
+sofa: 56% 	(left_x:   64   top_y:  356   width:  509   height:   56)
+person: 90% 	(left_x:  167   top_y:  151   width:  291   height:  254)
+chair: 32% 	(left_x:    0   top_y:  369   width:   75   height:   48)
+Objects:
+
+sofa: 57% 	(left_x:   64   top_y:  356   width:  511   height:   55)
+person: 93% 	(left_x:  168   top_y:  149   width:  287   height:  259)
+chair: 30% 	(left_x:    0   top_y:  369   width:   78   height:   48)
+Objects:
+
+sofa: 56% 	(left_x:   71   top_y:  357   width:  494   height:   54)
+chair: 28% 	(left_x:    1   top_y:  369   width:   76   height:   49)
+person: 94% 	(left_x:  170   top_y:  150   width:  286   height:  257)
+Objects:
+
+sofa: 57% 	(left_x:   68   top_y:  357   width:  499   height:   54)
+person: 95% 	(left_x:  173   top_y:  150   width:  279   height:  258)
+chair: 45% 	(left_x:    0   top_y:  368   width:   75   height:   49)
+Objects:
+
+sofa: 56% 	(left_x:   63   top_y:  356   width:  511   height:   55)
+person: 93% 	(left_x:  170   top_y:  151   width:  288   height:  256)
+chair: 38% 	(left_x:    0   top_y:  369   width:   74   height:   49)
+Objects:
+
+sofa: 54% 	(left_x:   68   top_y:  356   width:  499   height:   55)
+person: 95% 	(left_x:  173   top_y:  152   width:  280   height:  256)
+chair: 29% 	(left_x:    0   top_y:  369   width:   74   height:   48)
