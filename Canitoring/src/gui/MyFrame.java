@@ -27,17 +27,22 @@ import javax.swing.border.LineBorder;
 import javax.swing.border.TitledBorder;
 
 import org.opencv.core.Mat;
+import org.opencv.videoio.VideoCapture;
  
 public class MyFrame{
  
     private JFrame frame;
-    private VideoPanel v_panel;
-    private JButton e_btn;
+    public VideoPanel v_panel;
+    public JButton e_btn;
+    public JButton close_btn;
     private JLabel r_label;
     private JLabel t_label;
-    private Process yolo_process;
     private LineBorder lb;
     private LineBorder lb2;
+    Video_thread vt;
+    Thread v_thread;
+    
+    public static Process yolo_process;
     public static int threadNum=0;
     
     public MyFrame() {
@@ -51,15 +56,15 @@ public class MyFrame{
         lb2=new LineBorder(Color.black, 1, true);	
         
         v_panel = new VideoPanel();
-        v_panel.setBounds(10,20,1280,960);
         v_panel.setBorder(lb);
+        v_panel.setBounds(20, 20, 1024, 768);
         frame.getContentPane().add(v_panel);
         
         
         r_label = new JLabel("°á°ú");
         r_label.setFont(new Font("±¼¸²", Font.BOLD, 31));
         r_label.setHorizontalAlignment(SwingConstants.CENTER);
-		r_label.setBounds(1100, 50, 450, 300);
+		r_label.setBounds(1100, 50, 400, 250);
 		r_label.setBorder(lb);
 		frame.getContentPane().add(r_label);
 		
@@ -69,21 +74,24 @@ public class MyFrame{
 		t_label.setBorder(t_border);
 		t_label.setFont(new Font("±¼¸²", Font.BOLD, 31));
 		t_label.setHorizontalAlignment(SwingConstants.CENTER);
-		t_label.setBounds(1100, 400, 450, 300);
+		t_label.setBounds(1100, 400, 400, 250);
 		t_label.setBorder(lb2);
 		frame.getContentPane().add(t_label);
 		
-		ExecutorService executorService = Executors.newFixedThreadPool(1);
+		ExecutorService executorService = Executors.newFixedThreadPool(2);
         e_btn=new JButton("½ÇÇà");
-        e_btn.setBounds(1200,750,200,50);
+        e_btn.setBounds(1125,725,150,50);
         frame.getContentPane().add(e_btn);
         e_btn.addActionListener(new ActionListener() {
         	public void actionPerformed(ActionEvent a) {
         		try {
-        			//yolo_process=new ProcessBuilder("C:\\Program Files\\Bandizip\\Bandizip.exe").start();
-        			//Thread.sleep(10000);
+        			vt=new Video_thread(frame,v_panel);
+        			//executorService.submit(vt);
+        			v_thread=new Thread(vt);
+        			v_thread.start();
+        			Thread.sleep(3000);
         			
-        			Result_thread rt = new Result_thread(frame,r_label);
+        			Result_thread rt = new Result_thread(frame,r_label,t_label);
         			executorService.submit(rt);
         		} catch(Exception e) {
         			e.printStackTrace();
@@ -91,36 +99,22 @@ public class MyFrame{
         				
         	}
         });
+
+        close_btn=new JButton("Á¾·á");
+        close_btn.setBounds(1325,725,150,50);
+        frame.getContentPane().add(close_btn);
+        close_btn.addActionListener(new ActionListener() {
+        	public void actionPerformed(ActionEvent a) {
+        		yolo_process.destroy();
+        		System.exit(0);
+
+        	}
+        });
     }
  
     public void setVisible(boolean visible) {
         frame.setVisible(visible);
     }
- 
-    public void render(Mat image) {
-        Image i = toBufferedImage(image);
-        v_panel.setImage(i);
-        v_panel.repaint();
- 
-    }
- 
-    public static Image toBufferedImage(Mat m){
- 
-              // Check if image is grayscale or color
-          int type = BufferedImage.TYPE_BYTE_GRAY;
-          if ( m.channels() > 1 ) {
-              type = BufferedImage.TYPE_3BYTE_BGR;
-          }
- 
-              // Transfer bytes from Mat to BufferedImage
-          int bufferSize = m.channels()*m.cols()*m.rows();
-          byte [] b = new byte[bufferSize];
-          m.get(0,0,b); // get all the pixels
-          BufferedImage image = new BufferedImage(m.cols(), m.rows(), type);
-          final byte[] targetPixels = ((DataBufferByte) image.getRaster().getDataBuffer()).getData();
-          System.arraycopy(b, 0, targetPixels, 0, b.length);
-          return image;
-      }
-    
+
     
 }

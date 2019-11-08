@@ -48,14 +48,13 @@ evaluation_list[1]=eval_cup(result)
 evaluation_list[2]=eval_etc(result)
 
 
-if evaluation_list==[0,0,1] or evaluation_list==[1,0,1] or evaluation_list==[1,0,0] :
-        print("NOT ORDER")
-            
+if evaluation_list==[0,0,1] or evaluation_list==[1,0,1] or evaluation_list==[1,0,0]:
+        print("NOT ORDER")          
 elif evaluation_list==[0,0,0]:
         print("EMPTY")
-
 elif evaluation_list==[1,1,1] or evaluation_list==[1,1,0]:
         print("USING")
-    
+elif evaluation_list==[0,1,1] or evaluation_list==[0,0,1] or evaluation_list==[0,1,0]:
+		print("occupied")
 f.close()
 n=n+1;
